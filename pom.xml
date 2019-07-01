@@ -122,5 +122,4 @@
         </plugins>
         <finalName>chartsredis</finalName>
     </build>
-    <name>SpringTest Maven Webapp</name>
 </project>
