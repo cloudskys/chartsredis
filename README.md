@@ -1,3 +1,2 @@
-## JavaåŸºäºRediså®ç°ç®€å•çš„æ’è¡Œæ¦œåŠŸèƒ½
-
-æ³¨æ„ä¿®æ”¹ ChartsServiceImpl ä¸­ Redis çš„é…ç½®ä¿¡æ¯
+Java»ùÓÚRedisÊµÏÖ¼òµ¥µÄÅÅĞĞ°ñ¹¦ÄÜ
+×¢ÒâĞŞ¸Ä ChartsServiceImpl ÖĞ Redis µÄÅäÖÃĞÅÏ¢
